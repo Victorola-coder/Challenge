@@ -1,2 +1,2 @@
 # Challenge
-A friendly ChallChallenge 
+A friendly Challenge 
